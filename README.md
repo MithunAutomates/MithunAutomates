@@ -1,8 +1,15 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=I'm+Mithun+Selvan;AI+Dev+%7C+Automation+Builder;Building+Businesses+With+AI;Currently+Vibing+As+A+😎+Vibecoder" />
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="left" valign="middle" width="55%">
+      <h1>Hey 👋 What's Up?</h1>
+      <br/>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=false&vCenter=true&width=500&lines=I'm+Mithun+Selvan;AI+Dev+%7C+Automation+Builder;Building+Businesses+With+AI;Currently+Vibing+As+A+😎+Vibecoder" alt="Typing SVG" />
+    </td>
+    <td align="right" valign="middle" width="45%">
+      <img src="Gif image Vibecoding.gif" width="350" alt="Vibecoding GIF" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -11,8 +18,7 @@
 <div align="center">
 
 💡 I’m into AI Dev and building businesses from it  
-😎 Vibing nowadays as a **Vibecoder**  
-🤖 I like building AI Tools, Automations & Startups  
+😎 Vibing nowadays as a **Vibecoder** 🤖 I like building AI Tools, Automations & Startups  
 🔥 Turning ideas into projects and projects into solutions  
 
 </div>
@@ -124,7 +130,7 @@ Collection of UI and frontend experiments
 
 <div align="center">
 
-<i>"Problems Are A Part Of Life, But Solving Them Is The Art"</i>  
+<i>"Problems are a part of life, But solving them is the Art"</i>  
 ~ Mithun Selvan
 
 </div>
