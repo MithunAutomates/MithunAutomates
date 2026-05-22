@@ -48,6 +48,49 @@
 
 ###
 
+<h3 align="center">📊 Key Metrics & Impact</h3>
+
+<div align="center">
+
+<!-- IBM AirDraw Milestone -->
+<img src="https://img.shields.io/badge/IBM%20AirDraw-Top%20100%20Global-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+<!-- Hackathon Placement -->
+<img src="https://img.shields.io/badge/Hackathon-Top%2010%20%7C%208th%20Place-00F7FF?style=for-the-badge&logo=probot&logoColor=white" />
+<!-- Automation Efficiency Estimate -->
+<img src="https://img.shields.io/badge/Automations%20Built-5%20Production%20Pipelines-FFE600?style=for-the-badge&logo=zapier&logoColor=black" />
+
+<br>
+
+<!-- Testing Rigor & Dev Metrics -->
+<img src="https://img.shields.io/badge/SafeDrive%20Lock-7%20Days%20Stress%20Testing-FF4B4B?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+<img src="https://img.shields.io/badge/Avg.%20Build%20Time-2%20Weeks%20per%20System-00FF66?style=for-the-badge&logo=clockify&logoColor=white" />
+
+</div>
+
+<div align="center">
+  <br>
+  <table>
+    <tr>
+      <td><strong>🤖 Spatial AI Recognition</strong></td>
+      <td>Engineered the <em>AirDraw with IBM Bob</em> computer vision architecture, securing a spot in the <strong>Top 100 global submissions</strong>.</td>
+    </tr>
+    <tr>
+      <td><strong>🏆 Hackathon Triumph</strong></td>
+      <td>Designed a multi-functional bounty challenger tool to optimize programmer workflows, taking <strong>8th place overall</strong>.</td>
+    </tr>
+    <tr>
+      <td><strong>⚙️ Automation Architecture</strong></td>
+      <td>Deployed 5 distinct automation workflows, eliminating manual overhead and saving an estimated <strong>10+ hours weekly</strong>.</td>
+    </tr>
+    <tr>
+      <td><strong>🛡️ Rigorous QA Testing</strong></td>
+      <td>Maintained a strict build-to-test pipeline, executing a full <strong>7-day stress test phase</strong> for the SafeDrive Lock application to guarantee edge-case stability.</td>
+    </tr>
+  </table>
+</div>
+
+###
+
 <h3 align="center">🌐 Connect With Me</h3>
 
 <div align="center">
