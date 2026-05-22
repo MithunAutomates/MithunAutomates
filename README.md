@@ -159,7 +159,7 @@ Collection of UI and frontend experiments
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MithunAutomates&theme=algolia&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MithunAutomates&theme=algolia&margin-w=15&margin-h=15&filter=🏆"/>
 
 </div>
 
