@@ -160,11 +160,9 @@ Collection of UI and frontend experiments
 
 ###
 
-<h3 align="center">👾 Contribution Game</h3>
-
-<!-- Animated Contribution Snake Board (Self-Updating) -->
+<!-- New Pre-built Pink/Radical Animated Activity Graph -->
 <div align="center">
-  <img src="https://github.com/MithunAutomates/MithunAutomates/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" Error="this.src='https://cdn.jsdelivr.net/gh/Platane/snk@output/github-contribution-grid-snake.svg'"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MithunAutomates&theme=radical&area=true&hide_border=true"/>
 </div>
 
 ###
