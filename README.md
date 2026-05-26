@@ -145,13 +145,33 @@ Collection of UI and frontend experiments
 
 <h3 align="center">📈 GitHub Stats</h3>
 
+### 📈 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MithunAutomates&show_icons=true&theme=tokyonight" height="150"/>
+<!-- Animated Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=MithunAutomates&show_icons=true&theme=radical&animation=true" height="150"/>
 
-<img src="https://streak-stats.demolab.com?user=MithunAutomates&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150"/>
+<!-- Animated Streak Stats Card -->
+<img src="https://streak-stats.demolab.com?user=MithunAutomates&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithunAutomates&layout=compact&theme=tokyonight" height="150"/>
+<!-- Animated Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithunAutomates&layout=compact&theme=radical&animation=true" height="150"/>
+
+</div>
+
+###
+
+<!-- Upgraded to a dynamic, animated activity graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MithunAutomates&theme=react-dark-alt&area=true&custom_title=Weekly%20Activity%20Pulse"/>
+</div>
+
+###
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MithunAutomates&theme=algolia&margin-w=15&margin-h=15"/>
 
 </div>
 
