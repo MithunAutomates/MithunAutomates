@@ -3,7 +3,7 @@
     <td align="left" valign="middle" width="55%">
       <h1>Hey 👋 What's Up?</h1>
       <br/>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=false&vCenter=true&width=500&lines=I'm+Mithun+Selvan;AI+Dev+%7C+Automation+Builder;Building+Businesses+With+AI;Currently+Vibing+As+A+😎+Vibecoder" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=false&vCenter=true&width=500&lines=I'm+Mithun+Selvan;AI+Dev+%7C+Automation+Builder;Building+Businesses+With+AI;Currently+Vibing+As+A+%F0%9F%98%8E+Vibecoder" alt="Typing SVG" />
     </td>
     <td align="right" valign="middle" width="45%">
       <img src="Gif image Vibecoding.gif" width="350" alt="Vibecoding GIF" style="border-radius: 10px;" />
@@ -143,14 +143,12 @@ Collection of UI and frontend experiments
 
 ###
 
-<h3 align="center">📈 GitHub Stats</h3>
-
-### 📈 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
 
 <!-- Animated Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=MithunAutomates&show_icons=true&theme=radical&animation=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MithunAutomates&show_icons=true&theme=radical&animation=true&include_all_commits=true" height="150"/>
 
 <!-- Animated Streak Stats Card -->
 <img src="https://streak-stats.demolab.com?user=MithunAutomates&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150"/>
@@ -162,30 +160,12 @@ Collection of UI and frontend experiments
 
 ###
 
-<!-- Upgraded to a dynamic, animated activity graph -->
+<h3 align="center">👾 Contribution Game</h3>
+
+<!-- Animated Contribution Snake Board (Self-Updating) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MithunAutomates&theme=react-dark-alt&area=true&custom_title=Weekly%20Activity%20Pulse"/>
+  <img src="https://github.com/MithunAutomates/MithunAutomates/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" Error="this.src='https://cdn.jsdelivr.net/gh/Platane/snk@output/github-contribution-grid-snake.svg'"/>
 </div>
-
-###
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MithunAutomates&theme=algolia&margin-w=15&margin-h=15"/>
-
-</div>
-
-###
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MithunAutomates&theme=algolia&margin-w=15&margin-h=15"/>
-
-</div>
-
-###
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MithunAutomates&theme=tokyo-night"/>
 
 ###
 
