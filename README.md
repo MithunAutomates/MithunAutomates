@@ -52,16 +52,12 @@
 
 <div align="center">
 
-<!-- IBM AirDraw Milestone -->
 <img src="https://img.shields.io/badge/IBM%20AirDraw-Top%20100%20Global-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
-<!-- Hackathon Placement -->
 <img src="https://img.shields.io/badge/Hackathon-Top%2010%20%7C%208th%20Place-00F7FF?style=for-the-badge&logo=probot&logoColor=white" />
-<!-- Automation Efficiency Estimate -->
 <img src="https://img.shields.io/badge/Automations%20Built-5%20Production%20Pipelines-FFE600?style=for-the-badge&logo=zapier&logoColor=black" />
 
 <br>
 
-<!-- Testing Rigor & Dev Metrics -->
 <img src="https://img.shields.io/badge/SafeDrive%20Lock-7%20Days%20Stress%20Testing-FF4B4B?style=for-the-badge&logo=testinglibrary&logoColor=white" />
 <img src="https://img.shields.io/badge/Avg.%20Build%20Time-2%20Weeks%20per%20System-00FF66?style=for-the-badge&logo=clockify&logoColor=white" />
 
@@ -143,24 +139,6 @@ Collection of UI and frontend experiments
 
 ###
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-
-<!-- Animated Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=MithunAutomates&show_icons=true&theme=radical&animation=true&include_all_commits=true" height="150"/>
-
-<!-- Animated Streak Stats Card -->
-<img src="https://streak-stats.demolab.com?user=MithunAutomates&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150"/>
-
-<!-- Animated Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithunAutomates&layout=compact&theme=radical&animation=true" height="150"/>
-
-</div>
-
-###
-
-<!-- New Pre-built Pink/Radical Animated Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MithunAutomates&theme=radical&area=true&hide_border=true"/>
 </div>
