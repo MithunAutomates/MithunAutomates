@@ -3,7 +3,7 @@
     <td align="left" valign="middle" width="55%">
       <h1>Hey 👋 What's Up?</h1>
       <br/>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=false&vCenter=true&width=500&lines=I'm+Mithun+Selvan;AI+Dev+%7C+Automation+Builder;Building+Businesses+With+AI;Currently+Vibing+As+A+%F0%9F%98%8E+Vibecoder" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1452ff&center=false&vCenter=true&width=500&lines=I'm+Mithun+Selvan;AI+Dev+%7C+Automation+Builder;Building+Businesses+With+AI;Currently+Vibing+As+A+%F0%9F%98%8E+Vibecoder" alt="Typing SVG" />
     </td>
     <td align="right" valign="middle" width="45%">
       <img src="Gif image Vibecoding.gif" width="350" alt="Vibecoding GIF" style="border-radius: 10px;" />
